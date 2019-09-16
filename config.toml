@@ -1,4 +1,19 @@
 baseURL = "https://einfache-zimmerpflanzen.de"
 languageCode = "de-DE"
 title = "Einfache Zimmerpflanzen"
-theme = "ananke"
+theme = "pixyll"
+contentdir = "content"
+publishdir = "public"
+canonifyurls = true
+author = "Rene Schultz"
+enableRobotsTXT = true
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  search_engine = true
+  # google_analytics_id = "XX-XXXXXXXX-X"
+  twitter_username = "einfachezimmerpf"
+  paginate = true
