@@ -1,0 +1,4 @@
+baseURL = "https://einfache-zimmerpflanzen.de"
+languageCode = "de-DE"
+title = "Einfache Zimmerpflanzen"
+theme = "ananke"
